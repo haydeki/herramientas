@@ -1,2 +1,2 @@
 # herramientas
-Herramientas documentadas por la comunidad de SocialTIC.
+Herramientas documentadas por el equipo de SocialTIC.
